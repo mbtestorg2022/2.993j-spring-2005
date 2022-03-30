@@ -56,10 +56,10 @@ Recursion
 {{< tdopen >}}
 
 
-horner.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/horner.m))  
-radd.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/radd.m))  
-recur.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/recur.m))  
-sqr.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/sqr.m))
+horner.m ({{% resource_link "387a01be-72ae-c720-8b40-cfb6e4b9aa8e" "M" %}})  
+radd.m ({{% resource_link "30bab3e9-5ce3-7cfa-1103-12f52ea597bb" "M" %}})  
+recur.m ({{% resource_link "743c24ed-dd2d-bdb8-dd23-37c09b8e3476" "M" %}})  
+sqr.m ({{% resource_link "ee0a9371-3ac4-a505-86f0-c76d3e04bc29" "M" %}})
 
 
 {{< tdclose >}}
@@ -94,14 +94,14 @@ Condition Numbers
 {{< tdopen >}}
 
 
-euler.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/euler.m))  
-radd.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/radd.m))  
-sbfj.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/sbfj.m))  
-sbfj\_3.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/sbfj_3.m))  
-sbfj\_f.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/sbfj_f.m))  
-sbfj\_f\_3.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/sbfj_f_3.m))  
-sbfy.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/sbfy.m))  
-tsbfj.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tsbfj.m))
+euler.m ({{% resource_link "2c306caa-dc9a-82fb-aa69-69b71fad7688" "M" %}})  
+radd.m ({{% resource_link "30bab3e9-5ce3-7cfa-1103-12f52ea597bb" "M" %}})  
+sbfj.m ({{% resource_link "feb82f13-2315-adaa-5734-17be6e2665ba" "M" %}})  
+sbfj\_3.m ({{% resource_link "a60003d5-f70b-ca19-e27b-d2a8666c1c3c" "M" %}})  
+sbfj\_f.m ({{% resource_link "e936d30a-31f6-353d-7755-82efdce812f2" "M" %}})  
+sbfj\_f\_3.m ({{% resource_link "37813392-018c-6e2e-17b1-ee47bac02e26" "M" %}})  
+sbfy.m ({{% resource_link "ed89536c-1eab-95e4-3230-090f5bf7cf66" "M" %}})  
+tsbfj.m ({{% resource_link "ad2e7123-5aa5-3ea1-d055-312080f12381" "M" %}})
 
 
 {{< tdclose >}}
@@ -134,11 +134,11 @@ Gaussian Elimination
 {{< tdopen >}}
 
 
-tbt2.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tbt2.m))  
-tbt3.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tbt3.m))  
-tbt4.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tbt4.m))  
-tbt5.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tbt5.m))  
-tbt.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tbt.m))
+tbt2.m ({{% resource_link "2529d6e7-ffb2-743d-03be-ce56291ce76f" "M" %}})  
+tbt3.m ({{% resource_link "09a7a859-4391-d51d-fb81-86eed5c84779" "M" %}})  
+tbt4.m ({{% resource_link "19cfe3dd-80e9-de14-ab9f-a94d6d19d425" "M" %}})  
+tbt5.m ({{% resource_link "7fa7bf5c-ceb8-95bd-d16d-fe7e498477ee" "M" %}})  
+tbt.m ({{% resource_link "7c7f7fba-71ab-69bb-14fa-4a84a550f18d" "M" %}})
 
 
 {{< tdclose >}}
@@ -175,8 +175,8 @@ Error Analysis
 {{< tdopen >}}
 
 
-tbt6.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tbt6.m))  
-tbt7.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/tbt7.m))
+tbt6.m ({{% resource_link "4db63dea-1c91-5774-e03d-e55107c5e57a" "M" %}})  
+tbt7.m ({{% resource_link "dfe481aa-1d62-d74d-c0f4-824e9165046d" "M" %}})
 
 
 {{< tdclose >}}
@@ -238,7 +238,7 @@ Convergence of Iterative Schemes
 {{< tdopen >}}
 
 
-vib\_string.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/vib_string.m))
+vib\_string.m ({{% resource_link "160f637e-de04-e5a9-3215-6561b1ebc606" "M" %}})
 
 
 {{< tdclose >}}
@@ -271,11 +271,11 @@ Newton-Ralphson Iteration
 {{< tdopen >}}
 
 
-bisect.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/bisect.m))  
-cube.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/cube.m))  
-div.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/div.m))  
-heron.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/heron.m))  
-sqr.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/sqr.m))
+bisect.m ({{% resource_link "9cfde1f2-7d2f-b250-c2cd-90a1832b3bdd" "M" %}})  
+cube.m ({{% resource_link "1fff4548-10cf-5e65-8edf-64253010b3ec" "M" %}})  
+div.m ({{% resource_link "a3654dd0-9c44-7203-859b-293088f90043" "M" %}})  
+heron.m ({{% resource_link "6a3afcd2-e534-fdda-2482-f311525d0f79" "M" %}})  
+sqr.m ({{% resource_link "ee0a9371-3ac4-a505-86f0-c76d3e04bc29" "M" %}})
 
 
 {{< tdclose >}}
@@ -310,10 +310,10 @@ Triangular Family
 {{< tdopen >}}
 
 
-langrange.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/lagrange.m))  
-newton.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/newton.m))  
-newton\_coef.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/newton_coef.m))  
-newton\_test.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/newton_test.m))
+langrange.m ({{% resource_link "81c41808-17d8-4ce6-d244-059d40873e1b" "M" %}})  
+newton.m ({{% resource_link "44b33899-25eb-eec6-fda1-56780e7907d6" "M" %}})  
+newton\_coef.m ({{% resource_link "6aebf7ed-9f10-cdad-a564-2059d362fb41" "M" %}})  
+newton\_test.m ({{% resource_link "89178edc-9c28-0e91-1ddf-facba3ff4e39" "M" %}})
 
 
 {{< tdclose >}}
@@ -375,9 +375,9 @@ Initial Value Problems: Euler and Runge-Kutta Methods
 {{< tdopen >}}
 
 
-euler.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/euler.m))  
-rk.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/rk.m))  
-rkg.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/rkg.m))
+euler.m ({{% resource_link "2c306caa-dc9a-82fb-aa69-69b71fad7688" "M" %}})  
+rk.m ({{% resource_link "3441b20d-8999-d888-d009-dac780f0cb51" "M" %}})  
+rkg.m ({{% resource_link "033c5721-6ea9-656e-d46b-37b018315fcf" "M" %}})
 
 
 {{< tdclose >}}
@@ -441,10 +441,10 @@ Optimization
 {{< tdopen >}}
 
 
-cost.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/cost.m))  
-curve.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/curve.m))  
-lstsq.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/lstsq.m))  
-salesman.m ([M](/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/lecture-notes/salesman.m))
+cost.m ({{% resource_link "e36d85e6-dd67-88f5-3faa-8e85cb021fe2" "M" %}})  
+curve.m ({{% resource_link "7c53dcad-40a9-1ef9-070a-e053ac6778fe" "M" %}})  
+lstsq.m ({{% resource_link "8d74ecad-d535-7a14-7de1-ded3214378f5" "M" %}})  
+salesman.m ({{% resource_link "10f9fd48-126e-ccee-2d35-4808c5380102" "M" %}})
 
 
 {{< tdclose >}}
